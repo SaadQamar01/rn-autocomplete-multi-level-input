@@ -1,0 +1,30 @@
+{
+  "name": "rn-autocomplete-multi-level-input",
+  "version": "0.0.1",
+  "description": "A Multi Level Autocomplete Input for React Native Devs ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish  --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaadQamar01/rn-autocomplete-multi-level-input"
+  },
+  "keywords": [
+    "rn-autocomplete-multi-level-input",
+    "react-native-autocomplete-multi-level-input",
+    "react-native-autocomplete-select",
+    "react-native-autocomplete",
+    "rn-autocomplete-multi-select-input"
+  ],
+  "author": "Syed Saad Qamar & Zuhair Naqi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaadQamar01/rn-autocomplete-multi-level-input/issues"
+  },
+  "homepage": "https://github.com/SaadQamar01/rn-autocomplete-multi-level-input#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.58.0"
+  }
+}
